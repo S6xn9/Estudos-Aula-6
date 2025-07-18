@@ -1,5 +1,8 @@
 
 # 🧠 Anotações de Estudo: Hierarquia de Títulos em HTML
+📅 Criado em: **18 de julho de 2025**  
+📚 Matéria:**Programação Web (HTML5 e CSS3)**  
+✍️ Autor: **Marco**
 
 ## 📌 Assunto: Hierarquia de Títulos (HTML)
 
